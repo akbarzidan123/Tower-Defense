@@ -1,0 +1,1 @@
+x="Halo,\n Ini contoh paragraph buat nulis dengan format\n\tKlo inicontoh new line dengan tab"
